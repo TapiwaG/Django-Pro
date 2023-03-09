@@ -7,9 +7,10 @@
     <list default="true" id="5b42169b-a5f6-4cfa-aa28-f15a30fd6744" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/morningDjangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoProject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/morningDjangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoProject/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/morningDjangoProject/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoProject/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/products.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="morningDjangoProject" type="Python.DjangoServer" factoryName="Django server">
@@ -92,6 +96,11 @@
       <workItem from="1677735353414" duration="7599000" />
       <workItem from="1677819469216" duration="1543000" />
       <workItem from="1677821417064" duration="6670000" />
+      <workItem from="1678079624389" duration="491000" />
+      <workItem from="1678080727497" duration="5036000" />
+      <workItem from="1678166089488" duration="1654000" />
+      <workItem from="1678253684890" duration="7510000" />
+      <workItem from="1678338826842" duration="809000" />
     </task>
     <servers />
   </component>
